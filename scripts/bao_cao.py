@@ -1,4 +1,4 @@
-"""Tạo báo cáo thời trang hằng ngày bằng Gemini (miễn phí) và gửi Telegram.
+"""Tạo báo cáo đồ gia dụng hằng ngày bằng Gemini (miễn phí) và gửi Telegram.
 
 Chạy trong GitHub Actions. Cần 3 biến môi trường:
 GEMINI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
@@ -15,20 +15,20 @@ from datetime import datetime
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
-REPO_URL = "https://github.com/gosutank183/bao-cao-shopee/blob/main/bao-cao"
+REPO_URL = "https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao"
 MODELS = [m.strip() for m in os.environ.get(
     "GEMINI_MODELS", "gemini-flash-latest,gemini-2.5-flash").split(",") if m.strip()]
 
 # Các từ khóa tìm tin (Google News, 7 ngày gần nhất, tiếng Việt)
 QUERIES = [
-    "thời trang bán chạy Shopee",
-    "TikTok Shop thời trang",
-    "xu hướng thời trang giới trẻ",
-    "thời trang thu đông",
-    "Metric thương mại điện tử",
+    "đồ gia dụng bán chạy Shopee",
+    "TikTok Shop đồ gia dụng",
+    "đồ gia dụng thông minh hot trend",
+    "dụng cụ nhà bếp tiện ích",
+    "Metric thương mại điện tử đồ gia dụng",
     "Shopee sale 11.11 OR 12.12",
-    "không khí lạnh miền Bắc",
-    "phối đồ hot trend TikTok",
+    "đồ dùng nhà cửa mùa mưa lạnh",
+    "review đồ gia dụng TikTok",
 ]
 
 now = datetime.now(ZoneInfo("Asia/Ho_Chi_Minh"))
@@ -69,7 +69,7 @@ def lay_tin():
     return items
 
 
-PROMPT = """Bạn là trợ lý nghiên cứu sản phẩm cho một người làm affiliate Shopee ở Việt Nam, ngách thời trang, chuyên làm video bán hàng ngắn. Hôm nay là {date} (giờ Việt Nam).
+PROMPT = """Bạn là trợ lý nghiên cứu sản phẩm cho một người làm affiliate Shopee ở Việt Nam, ngách đồ gia dụng, chuyên làm video bán hàng ngắn. Hôm nay là {date} (giờ Việt Nam).
 
 Dưới đây là danh sách tin tức 7 ngày gần nhất (JSON). CHỈ dùng thông tin trong danh sách này; không bịa số liệu doanh số; số liệu ước tính phải ghi rõ là ước tính; không trích nguyên văn quá 15 từ, hãy diễn đạt lại. Nếu tin không đủ để khẳng định món nào "bán chạy", hãy nói rõ là dựa trên xu hướng.
 
@@ -77,9 +77,8 @@ TIN TỨC:
 {news}
 
 Trả về JSON với đúng 2 trường:
-"bao_cao": báo cáo Markdown tiếng Việt gồm: tiêu đề "# Báo cáo thời trang hot – {date}"; Top 5–10 sản phẩm/kiểu dáng thời trang đáng làm video, mỗi món gồm tên/kiểu, vì sao đang hot (dẫn nguồn bằng link Markdown lấy từ danh sách), mức giá phổ biến nếu tin có nêu, 1 gợi ý hook video ngắn; mục xu hướng/từ khóa đang lên; mục sự kiện sale/mùa vụ sắp tới; cuối cùng mục "## Nguồn:" liệt kê dạng [Tiêu đề](URL) các tin đã dùng.
-"telegram": VĂN BẢN THUẦN (không Markdown, không dùng ký tự * _ ` [ ]), tối đa 3.300 ký tự. BẮT BUỘC viết tiếng Việt CÓ ĐẦY ĐỦ DẤU ở mọi dòng, kể cả dòng hook video. BẮT BUỘC viết tiếng Việt CÓ ĐẦY ĐỦ DẤU ở mọi dòng, kể cả dòng hook video (không viết kiểu không dấu như "Dung voi mua"). Dòng đầu: "📊 Báo cáo thời trang hot – {date}". Sau đó Top sản phẩm đánh số 1., 2., ... mỗi món 2–3 dòng (tên + lý do ngắn + hook video), rồi 2–3 dòng xu hướng/sự kiện sắp tới. KHÔNG thêm dòng link ở cuối."""
-
+"bao_cao": báo cáo Markdown tiếng Việt gồm: tiêu đề "# Báo cáo đồ gia dụng hot – {date}"; Top 5–10 sản phẩm đồ gia dụng đáng làm video, mỗi món gồm tên/kiểu, vì sao đang hot (dẫn nguồn bằng link Markdown lấy từ danh sách), mức giá phổ biến nếu tin có nêu, 1 gợi ý hook video ngắn; mục xu hướng/từ khóa đang lên; mục sự kiện sale/mùa vụ sắp tới; cuối cùng mục "## Nguồn:" liệt kê dạng [Tiêu đề](URL) các tin đã dùng.
+"telegram": VĂN BẢN THUẦN (không Markdown, không dùng ký tự * _ ` [ ]), tối đa 3.300 ký tự. BẮT BUỘC viết tiếng Việt CÓ ĐẦY ĐỦ DẤU ở mọi dòng, kể cả dòng hook video. (không viết kiểu không dấu như "Dung voi mua"). Dòng đầu: "📊 Báo cáo đồ gia dụng hot – {date}". Sau đó Top sản phẩm đánh số 1., 2., ... mỗi món 2–3 dòng (tên + lý do ngắn + hook video), rồi 2–3 dòng xu hướng/sự kiện sắp tới. KHÔNG thêm dòng link ở cuối."""
 
 def bao_loi(msg):
     """In lỗi ra log và tạo annotation để thấy ngay trên trang Summary."""
@@ -159,7 +158,7 @@ def goi_gemini(prompt):
 
 def lam_sach_telegram(t):
     t = re.sub(r"[*_`\[\]]", "", t).strip()
-    dong_dau = f"📊 Báo cáo thời trang hot – {DATE_VN}"
+    dong_dau = f"📊 Báo cáo đồ gia dụng hot – {DATE_VN}"
     if not t.startswith("📊"):
         t = dong_dau + "\n\n" + t
     t = t[:3300].rstrip()
