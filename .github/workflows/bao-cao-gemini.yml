@@ -1,7 +1,7 @@
 name: Bao cao Gemini hang ngay
 on:
   schedule:
-    - cron: "22 21 * * *"   # 4:22 sáng giờ Việt Nam
+    - cron: "37 21 * * *"   # 4:37 sáng giờ Việt Nam
   workflow_dispatch:
 permissions:
   contents: write
