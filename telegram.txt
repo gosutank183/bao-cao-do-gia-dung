@@ -1,31 +1,26 @@
-📊 Báo cáo thời trang hot – 14/10/2026
+📊 Báo cáo đồ gia dụng hot – 15/10/2026
 
-1. Áo len kẻ sọc cổ điển
-Lý do: Xu hướng thời trang mùa thu chuộng phong cách thanh lịch, dễ phối cùng quần dài hoặc chân váy.
-Hook video: Dung voi mua ao len tron neu ban chua thay mau ao len ke soc sieu ton dang nay!
+1. Máy hút ẩm gia đình
+Đang vào đợt mưa ẩm kéo dài khiến nhu cầu làm khô thoáng nhà cửa tăng mạnh.
+Câu mở đầu video: Mưa dầm dề nhà bốc mùi mốc khó chịu thì bật ngay em này mười lăm phút là khô cong.
 
-2. Quần jean nữ ống suông tôn dáng
-Lý do: Xu hướng thời trang denim trẻ trung liên tục giữ nhiệt trong các bảng xếp hạng phong cách năm 2026.
-Hook video: Bi kip chon quan jean hack dang cho nang chan ngan, xem ngay de khong ton tien oan!
+2. Màn hình điều khiển nhà thông minh 7 inch
+Xu hướng điều khiển gom mọi thiết bị gia dụng về một màn hình trung tâm đang được chú ý, giá tham khảo gần 8 triệu đồng.
+Câu mở đầu video: Biến căn chung cư thành nhà tương lai chỉ với bảng điều khiển thông minh giá cực hời.
 
-3. Đồ thời trang phong cách tối giản unisex
-Lý do: Xu hướng phối màu trung tính, thiết kế tối giản đang được giới trẻ chuộng mặc đôi và đi học, đi chơi.
-Hook video: Mac chung do voi nguoi yeu cuc ngau voi set do unisex toi gian dang gay sot nay!
+3. Thiết bị làm bếp công nghệ trợ lý AI
+Mô hình gian bếp tích hợp trí tuệ nhân tạo đang trở thành tâm điểm kích thích tò mò người xem.
+Câu mở đầu video: Vụng về nấu nướng vẫn làm được mâm cơm chuẩn nhà hàng nhờ có trợ lý thông minh này hỗ trợ.
 
-4. Set đồ dạo phố tông màu hồng ngọt ngào
-Lý do: Xu hướng trang phục màu sắc nổi bật chụp ảnh check-in cà phê mùa thu được phái đẹp ưa chuộng.
-Hook video: Outfit hen ho mua thu lam chang khong the roi mat, thu ngay tone hong ngot ngao nay nha!
+4. Dụng cụ gia dụng nhà bếp chuẩn châu Âu
+Người mua ngày càng chuộng thiết bị nhà bếp bền bỉ có chứng nhận uy tín thay vì hàng trôi nổi.
+Câu mở đầu video: Đừng mua đồ dùng nhà bếp lung tung nữa, đây mới là tiêu chuẩn xịn dùng cả chục năm không hỏng.
 
-5. Áo khoác mỏng phối layer chuyển mùa
-Lý do: Không khí lạnh miền Bắc tăng cường kết hợp xu hướng tận dụng đồ hè sang thu giúp áo khoác nhẹ bán chạy.
-Hook video: Dung voi cat do mua he, them chiec ao khoac mong nay la co ngay set do thu cuc xinh!
+5. Thiết bị điều khiển và giải trí gia đình từ xa
+Nhu cầu tối ưu cuộc sống số thúc đẩy người tiêu dùng tìm mua các thiết bị kết nối quản lý gia đình.
+Câu mở đầu video: Ngồi một chỗ điều khiển bật tắt toàn bộ thiết bị trong nhà cực kỳ tiện lợi mà ai cũng nên thử.
 
-6. Thời trang thanh lịch thường ngày cho phụ nữ trung niên
-Lý do: Xu hướng diện đồ tối giản, tôn nét tự nhiên sang trọng cho độ tuổi ngoài 40 đang rất được chú ý.
-Hook video: Phu nu ngoai 40 mac gi mua thu nay de vua tre trung vua sang chanh tu nhien?
+Xu hướng thị trường: Người mua sắm online chi tiêu tích cực hơn trong quý ba và duy trì thói quen thức xem livestream săn deal.
+Sự kiện sắp tới: Các nhà bán chuẩn bị chạy đà cho đại hội siêu sale 11/11 và chiến dịch mua sắm đón Tết bắt đầu nhen nhóm.
 
-Xu hướng và sự kiện sắp tới:
-Không khí lạnh miền Bắc tiếp tục tăng cường trong tháng 10, mở đường cho trào lưu sắm đồ giữ ấm và áo len mỏng.
-Các sàn thương mại điện tử đồng loạt triển khai gói hỗ trợ và chương trình kích cầu mùa sale cao điểm cuối năm 2026.
-
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-shopee/blob/main/bao-cao/2026-10-14.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-10-15.md
