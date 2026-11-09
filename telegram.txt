@@ -1,28 +1,27 @@
-📊 Báo cáo đồ gia dụng hot – 08/11/2026
+📊 Báo cáo đồ gia dụng hot – 09/11/2026
 
-Top sản phẩm tiềm năng làm video affiliate:
+1. Nồi chiên không dầu luồng khí 360 độ
+Xu hướng công nghệ nấu nướng đối lưu mới giúp chín đều và hạn chế dầu mỡ.
+Câu dẫn video: Đừng vội mua nồi chiên không dầu kiểu cũ nếu bạn chưa biết công nghệ nhiệt đối lưu 360 độ này!
 
-1. Nồi chiên không dầu khí nóng 360 độ Hikira
-Dòng nồi chiên mới ra mắt gây chú ý nhờ công nghệ khí nóng 360 độ giúp thực phẩm chín đều nhanh chóng.
-Hook video: Đừng mua nồi chiên không dầu kiểu cũ nữa nếu chưa biết tới công nghệ khí nóng 360 độ này!
+2. Máy hút ẩm và máy lọc bụi mịn trong nhà
+Thời tiết chuyển mùa ẩm ướt khiến nhu cầu bảo vệ sức khỏe và chống ẩm mốc tăng mạnh.
+Câu dẫn video: Nhà ẩm mốc, sàn trơn trượt mùa mưa bão? Đây là vị cứu tinh phòng ngủ của bạn!
 
-2. Thiết bị kiểm soát độ ẩm và bụi mịn trong nhà
-Miền Bắc chuẩn bị đón đợt lạnh 13 độ C kết hợp nồm ẩm, miền Trung mưa bão kéo dài khiến nhu cầu xử lý không khí tăng vọt.
-Hook video: Nhà ẩm mốc quần áo lâu khô mùa rét 13 độ? Đây là chân cứu tinh cho căn phòng của bạn!
+3. Quạt sưởi và thiết bị làm ấm gia đình
+Miền Bắc sắp đón đợt không khí lạnh mạnh nhất đầu mùa, nhiệt độ giảm sâu xuống 13 độ C.
+Câu dẫn video: Trời sắp chạm mốc 13 độ C, sắm ngay món gia dụng làm ấm cấp tốc này cho người già và trẻ nhỏ.
 
-3. Thiết bị gia dụng tiết kiệm điện thông minh (Ferroli - Haier)
-Người tiêu dùng hiện ưu tiên chọn các sản phẩm gia dụng tích hợp công nghệ tiết kiệm điện năng để giảm chi phí.
-Hook video: Dùng đồ gia dụng thoải mái mà không lo tăng tiền điện, bí quyết nằm ở công nghệ này!
+4. Thiết bị nhà bếp thông minh tiết kiệm năng lượng
+Người tiêu dùng ưu tiên thiết bị bếp đa năng giúp giảm thiểu chi phí tiền điện sinh hoạt.
+Câu dẫn video: Bật mí thiết bị bếp thông minh giúp nấu ăn nhanh gấp đôi mà tiền điện cuối tháng giảm một nửa!
 
-4. Hệ sinh thái thiết bị nhà bếp thông minh (Faster)
-Thiết bị bếp tiện ích thông minh đang được quan tâm lớn tại các triển lãm điện tử gia dụng hiện nay.
-Hook video: Căn bếp hiện đại năm 2026 nhất định không thể thiếu món đồ gia dụng thông minh này!
+5. Thiết bị điện gia dụng chống giật, chống ẩm
+Nhu cầu đảm bảo an toàn thiết bị điện trong nhà tăng cao trước các đợt mưa bão kéo dài.
+Câu dẫn video: Mùa mưa bão ngập lụt, đừng bỏ qua phụ kiện bảo vệ cả nhà khỏi sự cố điện cực kỳ đơn giản này!
 
-5. Thiết bị bảo vệ an toàn điện gia đình mùa mưa bão
-Thời tiết mưa lũ nguy hiểm ở nhiều tỉnh thành khiến nhu cầu gia tăng cho các thiết bị đảm bảo an toàn điện trong nhà.
-Hook video: Mùa mưa bão đến rồi, kiểm tra ngay nhà bạn đã có thiết bị an toàn điện này chưa!
+Xu hướng và sự kiện sắp tới:
+Đại tiệc siêu sale 11.11 trên Shopee đang bước vào giai đoạn bùng nổ đơn hàng cùng sự kiện Black Friday và đợt sale lớn 12.12.
+Thị trường gia dụng tập trung mạnh vào các thiết bị ứng phó thời tiết lạnh ẩm và giải pháp nhà thông minh tiết kiệm điện năng.
 
-Xu hướng và sự kiện sale sắp tới:
-Đại lễ mua sắm 11.11 trên Shopee đang bùng nổ cùng đại sứ UPRIZE và chiến dịch Úm Ba La, tiếp sau là Black Friday và 12.12. Khách hàng chú trọng mua hàng chính hãng, đồ gia dụng sưởi ấm và kiểm soát độ ẩm mùa rét.
-
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-08.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-09.md
