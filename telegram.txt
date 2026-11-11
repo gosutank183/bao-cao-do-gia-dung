@@ -1,26 +1,26 @@
-📊 Báo cáo đồ gia dụng hot – 10/11/2026
+📊 Báo cáo đồ gia dụng hot – 11/11/2026
 
-1. Nồi chiên không dầu công nghệ khí nóng 360 độ
-Thiết bị nấu nướng tiện ích ra mắt công nghệ luân chuyển khí mới giúp tối ưu dinh dưỡng cho gia đình.
-Hook: Nồi chiên cũ hay làm khô đồ ăn thì bạn xem ngay dòng nồi khí nóng 360 độ này nha.
+1. Dụng cụ và thiết bị nhà bếp thông minh
+Nhu cầu nâng cấp góc bếp tiện nghi đang tăng mạnh dịp mua sắm cuối năm.
+Hook video: Cuối năm rồi, căn bếp nhà bạn đã nâng cấp 3 món này chưa?
 
-2. Thiết bị nhà bếp thông minh tiết kiệm năng lượng
-Xu hướng tự động hóa gian bếp và tối ưu hóa chi phí điện sinh hoạt đang được các hãng lớn tập trung ra mắt.
-Hook: Hóa đơn tiền điện tăng cao làm bạn đau đầu thì giải pháp chính là chiếc máy thông minh này.
+2. Thiết bị gia dụng tiết kiệm điện năng
+Người tiêu dùng ưu tiên chọn thiết bị gia dụng thông minh giúp tối ưu chi phí điện.
+Hook video: Mẹo dùng đồ gia dụng cả tháng không lo tiền điện tăng vọt!
 
-3. Máy sưởi và thiết bị làm khô không khí mùa rét
-Thời tiết chuyển lạnh kèm mưa lũ trên diện rộng tại nhiều tỉnh thành tạo nhu cầu sưởi ấm cấp bách.
-Hook: Trời mưa lạnh quần áo lâu khô thì sắm ngay chiếc máy sưởi ấm chống ẩm mốc này nhé.
+3. Phụ kiện điện gia dụng và củ sạc nhanh
+Các mặt hàng phụ kiện điện tử gia đình giảm giá tới gần nửa giá dịp siêu sale.
+Hook video: Săn ngay củ sạc nhanh gia đình đang sale nửa giá duy nhất hôm nay!
 
-4. Ổ cắm chống giật và thiết bị bảo vệ nguồn điện
-Khuyến cáo an toàn phòng tránh sự cố chập điện sinh hoạt trong cao điểm mưa bão ngập úng.
-Hook: Mùa mưa bão ngập nước đừng quên trang bị ổ cắm tự ngắt để bảo vệ an toàn cho cả nhà.
+4. Đồ gia dụng sưởi ấm và sấy khô mùa mưa lạnh
+Thời tiết chuyển lạnh kèm mưa lũ ở miền Trung làm gia tăng nhu cầu thiết bị sấy sưởi.
+Hook video: Mùa mưa lạnh đến rồi, đây là món đồ nhà nào cũng cần phải có!
 
-5. Bộ đồ bếp truyền thống phong cách hoài niệm
-Trào lưu video ẩm thực tái hiện đời sống mộc mạc ngày xưa đang thu hút lượng quan tâm lớn của khán giả.
-Hook: Muốn nấu mâm cơm chuẩn vị xưa như các video triệu lượt xem thì phải có bộ dụng cụ bếp này.
+5. Thiết bị chăm sóc cá nhân gia đình
+Xu hướng tối ưu không gian và nâng cao chất lượng sống gia đình từ các đồ dùng nhỏ.
+Hook video: Thay đổi thói quen nhỏ này giúp không gian sống nâng tầm tức thì!
 
-Thị trường đang bước vào đại tiệc siêu sale 11.11 trên Shopee với lượng người dùng và nhu cầu săn mã giảm giá tăng rất cao.
-Các chiến dịch tiếp theo như Black Friday và đợt giảm giá kép 12.12 sẽ là cơ hội lớn để bùng nổ đơn hàng cho video ngắn đồ gia dụng.
+Xu hướng và sự kiện sắp tới:
+Người tiêu dùng Gen Z ngày càng thông thái, chú trọng chất lượng đáng tiền hơn là chỉ cạnh tranh giá rẻ. Đợt siêu sale 11/11 trên Shopee đang diễn ra vô cùng sôi động, chuẩn bị bước đệm cho đợt mua sắm 12/12 và Black Friday cuối năm.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-10.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-11.md
