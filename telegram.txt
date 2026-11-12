@@ -1,26 +1,26 @@
-📊 Báo cáo đồ gia dụng hot – 11/11/2026
+📊 Báo cáo đồ gia dụng hot – 12/11/2026
 
-1. Dụng cụ và thiết bị nhà bếp thông minh
-Nhu cầu nâng cấp góc bếp tiện nghi đang tăng mạnh dịp mua sắm cuối năm.
-Hook video: Cuối năm rồi, căn bếp nhà bạn đã nâng cấp 3 món này chưa?
+1. Thiết bị gia dụng thông minh tiết kiệm điện
+Lý do: Xu hướng người tiêu dùng nâng cấp thiết bị phòng tắm và gia dụng thông minh tiết kiệm năng lượng.
+Hook: Mùa đông đến rồi, nhà bạn đã nâng cấp thiết bị tắm tiết kiệm điện này chưa?
 
-2. Thiết bị gia dụng tiết kiệm điện năng
-Người tiêu dùng ưu tiên chọn thiết bị gia dụng thông minh giúp tối ưu chi phí điện.
-Hook video: Mẹo dùng đồ gia dụng cả tháng không lo tiền điện tăng vọt!
+2. Máy sấy quần áo và thiết bị sưởi ấm
+Lý do: Không khí lạnh tràn về Bắc Bộ cùng mưa lớn ở nhiều khu vực khiến nhu cầu làm khô và giữ ấm tăng cao.
+Hook: Thời tiết rét đậm ẩm ướt, đây là chân lý giúp quần áo khô tấp nập trong ngày!
 
-3. Phụ kiện điện gia dụng và củ sạc nhanh
-Các mặt hàng phụ kiện điện tử gia đình giảm giá tới gần nửa giá dịp siêu sale.
-Hook video: Săn ngay củ sạc nhanh gia đình đang sale nửa giá duy nhất hôm nay!
+3. Dụng cụ nhà bếp tiện ích cuối năm
+Lý do: Nhu cầu tân trang không gian bếp gia tăng mạnh mẽ trong các đợt mua sắm lớn.
+Hook: 5 món đồ nhà bếp đáng mua nhất đợt sale cuối năm mà chị em không nên bỏ lỡ!
 
-4. Đồ gia dụng sưởi ấm và sấy khô mùa mưa lạnh
-Thời tiết chuyển lạnh kèm mưa lũ ở miền Trung làm gia tăng nhu cầu thiết bị sấy sưởi.
-Hook video: Mùa mưa lạnh đến rồi, đây là món đồ nhà nào cũng cần phải có!
+4. Phụ kiện điện tử gia dụng nhỏ
+Lý do: Nhiều dòng phụ kiện sinh hoạt giảm giá tới gần 50 phần trăm dịp siêu sale.
+Hook: Săn ngay phụ kiện gia dụng giảm nửa giá duy nhất trong ngày đôi 11/11!
 
-5. Thiết bị chăm sóc cá nhân gia đình
-Xu hướng tối ưu không gian và nâng cao chất lượng sống gia đình từ các đồ dùng nhỏ.
-Hook video: Thay đổi thói quen nhỏ này giúp không gian sống nâng tầm tức thì!
+5. Thiết bị điện gia đình thông minh
+Lý do: Giải pháp thiết bị điện tiên tiến thu hút người dùng nâng cấp nhà cửa.
+Hook: Hế lộ cách biến ổ cắm thường thành ổ cắm thông minh chỉ trong 30 giây!
 
 Xu hướng và sự kiện sắp tới:
-Người tiêu dùng Gen Z ngày càng thông thái, chú trọng chất lượng đáng tiền hơn là chỉ cạnh tranh giá rẻ. Đợt siêu sale 11/11 trên Shopee đang diễn ra vô cùng sôi động, chuẩn bị bước đệm cho đợt mua sắm 12/12 và Black Friday cuối năm.
+Thị trường tập trung mạnh vào đại lễ Mega Sale 11/11 Shopee, đợt mua sắm Midnight Sale và Black Friday. Thời tiết chuyển lạnh là thời điểm vàng để thúc đẩy doanh số các sản phẩm sưởi ấm và tiện ích gia đình.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-11.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-12.md
