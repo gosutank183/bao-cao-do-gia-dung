@@ -1,26 +1,26 @@
-📊 Báo cáo đồ gia dụng hot – 13/11/2026
+📊 Báo cáo đồ gia dụng hot – 14/11/2026
 
-1. Kệ và khay sắp xếp nhà bếp thông minh
-Nhu cầu tối ưu không gian bếp nhỏ và dọn dẹp nhà cửa tăng mạnh dịp cuối năm, giúp tăng gấp đôi khả năng lưu trữ.
-Hook video: Nhà bếp chật chội 50m2 hóa rộng gấp đôi chỉ nhờ mẹo sắp xếp này!
+1. Dụng cụ nhà bếp tiện ích nâng cao chất lượng sống
+Lý do: Xu hướng người tiêu dùng tập trung nâng cấp không gian bếp dịp cuối năm.
+Hook: Căn bếp gọn gàng gấp đôi chỉ nhờ nâng cấp món đồ nhỏ này!
 
-2. Thiết bị sưởi ấm gia đình và đèn sưởi
-Không khí lạnh mạnh tràn về cùng mưa lớn khiến nhu cầu giữ ấm sức khỏe gia đình và trẻ nhỏ tăng cao.
-Hook video: Trời rét đậm rồi, sắm ngay món này để bảo vệ sức khỏe cả nhà nhé!
+2. Túi ni lông bạt bảo quản đồ đạc chống ngập
+Lý do: Mưa lớn ngập lụt nhiều tỉnh miền Trung và miền Bắc làm tăng nhu cầu bảo vệ tài sản.
+Hook: Mùa mưa lũ đến rồi, làm sao bảo vệ đồ đạc trong nhà không bị ướt hỏng?
 
-3. Kệ kê chống ngập và phụ kiện bảo vệ nhà tầng trệt
-Tình trạng ngập lụt mùa mưa lũ khiến cư dân ở nhà tầng 1 tìm kiếm giải pháp kê cao và bảo vệ đồ đạc.
-Hook video: Ở nhà tầng 1 mùa mưa lũ nhất định phải biết phụ kiện bảo vệ đồ đạc này!
+3. Bàn chải điện và thiết bị chăm sóc cá nhân
+Lý do: Đồ dùng cá nhân thông minh thu hút người mua tìm kiếm tiện ích sinh hoạt.
+Hook: Bí quyết chăm sóc răng miệng chuẩn spa ngay tại nhà với chi phí cực tiết kiệm.
 
-4. Ổ cắm và thiết bị điện gia dụng an toàn
-Giải pháp thiết bị điện tiên tiến ra mắt tại triển lãm thu hút sự chú ý về an toàn điện gia đình.
-Hook video: Thay ngay ổ cắm cũ trong nhà bằng dòng thiết bị điện an toàn thế hệ mới này!
+4. Phụ kiện công nghệ gia đình củ sạc nhanh pin dự phòng
+Lý do: Đợt siêu sale 11.11 ưu đãi sâu tới gần 50 phần trăm thu hút lượng mua lớn.
+Hook: 3 phụ kiện công nghệ giúp bàn làm việc gia đình gọn gàng tức thì!
 
-5. Củ sạc nhanh và phụ kiện điện gia dụng
-Sản phẩm giảm giá sâu đến 50 phần trăm được người tiêu dùng săn đón dịp sale 11.11.
-Hook video: Đợt sale này củ sạc nhanh giảm giá cực sâu, không mua là tiếc hời!
+5. Thiết bị điện gia dụng an toàn và ổ cắm thông minh
+Lý do: Nhu cầu cải tạo nhà cửa cuối năm ưu tiên các giải pháp điện an toàn.
+Hook: Sai lầm khi chọn ổ cắm điện trong nhà mà nhiều người mắc phải!
 
 Xu hướng và sự kiện sắp tới:
-Người tiêu dùng Gen Z mua sắm thông thái, ưu tiên tính ứng dụng và độ bền. Các đợt sale cuối năm như 11.11 vừa qua và đợt chuẩn bị 12.12 sắp tới trên Shopee cùng nhu cầu chống lạnh mùa đông là động lực chính thúc đẩy sức mua đồ gia dụng.
+Người tiêu dùng tính toán kỹ lưỡng, ưu tiên sản phẩm nâng cao chất lượng sống và mua sắm qua tiếp thị liên kết. Sau đợt 11.11, các sàn tập trung cho các đợt Midnight Sale và đợt siêu sale 12.12 sắp tới.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-13.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-14.md
