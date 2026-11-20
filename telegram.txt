@@ -1,27 +1,22 @@
-📊 Báo cáo đồ gia dụng hot – 19/11/2026
+📊 Báo cáo đồ gia dụng hot – 20/11/2026
 
-1. Thiết bị sưởi ấm gia đình (quạt sưởi, máy sưởi gốm)
-Lý do: Không khí lạnh tăng cường diện rộng, vùng núi ghi nhận mức nhiệt xuống thấp dưới 10 độ C khiến nhu cầu giữ ấm tăng mạnh.
-Hook video: Đừng để đợt rét dưới 10 độ này làm cả nhà bị cóng, xem ngay chiếc máy sưởi nhỏ mà ấm cực nhanh này!
+1. Bình giữ nhiệt cao cấp: Nhu cầu giữ ấm đồ uống tăng mạnh khi gió mùa về.
+Hook: Ba mẫu bình giữ nhiệt giá rẻ nhưng giữ nóng tới 12 tiếng cực đỉnh cho mùa đông này!
 
-2. Kệ và khay hộp sắp xếp nhà cửa tối ưu diện tích
-Lý do: Xu hướng tối ưu nhà nhỏ đang rất được quan tâm sau nội dung biến nhà hẹp nhân đôi sức chứa đồ đạc.
-Hook video: Nhà chật đến mấy cũng hóa thênh thang nếu bạn biết cách bố trí 2 loại khay kệ thông minh này!
+2. Thiết bị sưởi ấm gia đình: Đón đợt không khí lạnh sâu dưới 10 độ C.
+Hook: Đừng vội mua máy sưởi nếu nhà bạn có trẻ nhỏ trước khi xem hết video này!
 
-3. Đồ gia dụng thông minh tiện ích
-Lý do: Người tiêu dùng chuyển dần sang các sản phẩm công nghệ tiện lợi giúp nâng tầm chất lượng cuộc sống hàng ngày.
-Hook video: 3 món đồ gia dụng thông minh này đã giúp việc nhà của mình thảnh thơi hơn gấp chục lần!
+3. Túi chống nước và túi hút chân không: Nhu cầu bảo quản đồ đạc khô ráo mùa mưa lũ.
+Hook: Mẹo bảo vệ toàn bộ quần áo đồ đạc khô ráo nguyên vẹn bất chấp mùa mưa ẩm!
 
-4. Túi hút chân không và hộp bảo quản chống ẩm
-Lý do: Ảnh hưởng của mưa rét và độ ẩm cao kéo dài khiến việc bảo vệ quần áo, vật dụng khỏi ẩm mốc trở nên cấp thiết.
-Hook video: Mùa mưa ẩm quần áo dễ có mùi khó chịu, đây là mẹo đóng gói giúp tủ đồ luôn khô ráo thơm tho!
+4. Bếp điện từ an toàn: Chuyển đổi từ bếp gas sang bếp điện theo khuyến cáo an toàn cháy nổ.
+Hook: Lý do khiến các căn hộ hiện đại đang rủ nhau đổi từ bếp gas sang chiếc bếp này!
 
-5. Dụng cụ nhà bếp tiện ích thực dụng
-Lý do: Người tiêu dùng bắt đầu loại bỏ thói quen mua đồ gia dụng rườm rà, tập trung vào đồ bếp đa năng và cần thiết.
-Hook video: Đừng phí tiền mua những món đồ bếp chỉ dùng một lần rồi bỏ xó, hãy chọn dụng cụ thực sự cần thiết này!
+5. Thiết bị nhà bếp thông minh gọn nhẹ: Xu hướng tinh giản đồ dùng gia đình nâng cao chất lượng sống.
+Hook: 5 món đồ nhà bếp tưởng tiện nhưng mua về chỉ chật nhà, thay bằng món này thông minh hơn!
 
-Xu hướng và sự kiện sắp tới:
-Khách hàng hiện nay chú trọng chất lượng và uy tín gian hàng hơn việc săn đồ giá rẻ đơn thuần.
-Các đợt khuyến mãi lớn như Black Friday và lễ hội giảm giá 12.12 sắp diễn ra, thích hợp lên video chuẩn bị sớm đón mùa sắm Tết.
+Xu hướng và Sự kiện:
+Thị trường chuyển từ cạnh tranh giá rẻ sang chất lượng và niềm tin thương hiệu.
+Thời tiết chuyển lạnh kết hợp chuẩn bị sắm Tết và đợt sale 12.12 là cơ hội lớn cho đồ gia dụng sưởi ấm, tiện ích.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-19.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-20.md
