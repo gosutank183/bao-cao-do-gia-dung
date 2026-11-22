@@ -1,26 +1,29 @@
-📊 Báo cáo đồ gia dụng hot – 21/11/2026
+📊 Báo cáo đồ gia dụng hot – 22/11/2026
 
-1. Bình giữ nhiệt cao cấp
-Lý do: Đợt gió mùa rét đậm khiến nhu cầu sử dụng các thiết bị giữ nhiệt tăng mạnh.
-Hook: Đừng mua bình giữ nhiệt nếu bạn chưa biết mẹo giữ nóng suốt 24 giờ này.
+1. Ổ cắm đo điện năng tiêu thụ
+Thiết bị đánh trúng tâm lý kiểm soát chi tiêu điện sinh hoạt trong gia đình.
+Hook: Mỗi tháng tốn tiền triệu tiền điện mà không biết thiết bị nào ngốn nhiều nhất, cắm thử cái này là biết ngay.
 
-2. Kệ gỗ nội thất tự lắp ráp IGA
-Lý do: Đồ gia dụng thông minh tối ưu không gian đang chốt đơn rất tốt qua livestream.
-Hook: Góc phòng hẹp đến mấy cũng gọn gàng nhờ chiếc kệ thông minh lắp chỉ 5 phút.
+2. Đèn bắt muỗi và bẫy kiến ba khoang
+Thời tiết chuyển lạnh khiến côn trùng kiến ba khoang bùng phát gây hại sức khỏe.
+Hook: Mùa này kiến ba khoang bò đầy nhà, đừng dùng tay đập kẻo bỏng rát, dùng ngay mẹo này để xử lý.
 
-3. Máy sấy quần áo và quạt sưởi mini
-Lý do: Thời tiết mưa lạnh kéo dài làm gia tăng đột biến nhu cầu sấy đồ giữ ấm.
-Hook: Quần áo phơi mãi không khô mùa mưa rét thì đây là giải pháp cứu cánh cực rẻ.
+3. Máy sấy quần áo và thiết bị giặt thông minh
+Miền Bắc và miền Trung đón gió mùa Đông Bắc ẩm lạnh, kích cầu thiết bị giặt sấy.
+Hook: Trời mưa rét phơi đồ ba ngày chưa khô lại bốc mùi, đây là món đồ cứu tinh bạn phải sắm ngay.
 
-4. Dụng cụ nhà bếp tối giản đa năng
-Lý do: Khách hàng có xu hướng loại bỏ sản phẩm cồng kềnh, chuyển sang đồ tiện ích.
-Hook: Dừng mua 5 món gia dụng này nếu không muốn vừa tốn tiền vừa chật bếp.
+4. Kệ đa năng và nội thất lắp ráp thông minh
+Nhu cầu dọn dẹp nhà cửa cuối năm bùng nổ, livestream nội thất đang hút khách.
+Hook: Phòng trọ hay góc bếp bừa bộn đến mấy, chỉ cần mười phút lắp kệ này là tinh tươm đón Tết.
 
-5. Bộ hộp bảo quản thực phẩm
-Lý do: Người tiêu dùng chú trọng chất lượng sống và chuẩn bị lưu trữ đồ đón Tết.
-Hook: Bí quyết giữ rau củ tươi xanh cả tuần trong tủ lạnh cực kỳ đơn giản.
+5. Thiết bị nhà bếp đa năng phân khúc bền đẹp
+Người tiêu dùng quan tâm bài toán kinh tế giữa đồ giá rẻ ba trăm nghìn và đồ xịn hai triệu.
+Hook: Mua món đồ ba trăm nghìn dùng vài tháng hỏng hay bỏ hai triệu dùng ba năm, xem ngay phép tính này nhé.
 
-Xu hướng và sự kiện sắp tới:
-Shopee Live tiếp tục bứt phá doanh số mạnh mẽ, người mua ưu tiên hàng chất lượng. Đợt Siêu Sale 12.12 và cao điểm mua sắm Tết đang đến gần, Creator nên tập trung làm video review trải nghiệm thực tế ngay từ lúc này.
+6. Máy sấy giày khử khuẩn mini
+Nhu cầu giữ ấm và làm khô giày dép tăng mạnh khi trời bước vào mùa mưa lạnh buốt.
+Hook: Đi mưa về giày ướt sũng hôi rình, chỉ cần cắm máy này qua đêm là sáng mai khô cong thơm tho.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-21.md
+Xu hướng và sự kiện sắp tới: Sàn thương mại điện tử tiếp tục bùng nổ doanh số bán hàng qua livestream. Các nhà bán hàng ráo riết chuẩn bị nguồn cung đồ gia dụng nhập khẩu để đón đầu chuỗi khuyến mãi lớn gồm Black Friday cuối tháng 11, ngày hội siêu sale 12.12 và đợt mua sắm tân trang nhà cửa dịp Tết Nguyên đán.
+
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-22.md
