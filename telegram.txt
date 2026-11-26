@@ -1,27 +1,27 @@
-📊 Báo cáo đồ gia dụng hot – 25/11/2026
+📊 Báo cáo đồ gia dụng hot – 26/11/2026
 
-1. Máy sấy quần áo, máy sấy giày dép và thiết bị khử khuẩn
-Do miền Bắc chuyển rét đậm từ 24/11, nhu cầu sấy khô đồ đạc tăng vọt.
-Hook: Trời rét mưa ẩm lỡ làm ướt giày áo quần lâu khô thì xử lý sao trong 15 phút?
+1. Đồ gia dụng sưởi ấm (Máy sưởi, máy tạo ẩm, ấm đun)
+Lý do: Miền Bắc đón không khí lạnh dưới 10 độ C, nhu cầu thiết bị giữ ấm tăng cao.
+Hook: Rét dưới 10 độ C mà không có món gia dụng này trong phòng thì đêm ngủ sao nổi!
 
-2. Đồ gia dụng thông minh nâng cao chất lượng sống
-Người tiêu dùng hiện đại ưu tiên thiết bị tự động hóa giúp giải phóng sức lao động.
-Hook: 3 món đồ gia dụng thông minh giúp bạn thảnh thơi cả ngày, nhà lúc nào cũng sạch!
+2. Gia dụng thông minh (Máy hút bụi, đồ gia đình tiện ích)
+Lý do: Xu hướng tiêu dùng ưu tiên nâng cao chất lượng sống và tiện nghi gia đình.
+Hook: Đây là lý do tại sao gia dụng thông minh đang khiến hội chị em mê mẩn dịp cuối năm!
 
-3. Nhu yếu phẩm gia đình đóng can/thùng dung tích lớn
-Giới trẻ có xu hướng sắm can nước giặt, thùng giấy lớn để tiết kiệm chi phí lâu dài.
-Hook: Bí quyết săn thùng nước giặt dung tích lớn giá hời dùng cả nửa năm!
+3. Thiết bị điện máy gia dụng cồng kềnh
+Lý do: Khách xem giá trực tiếp rồi chốt đơn online dịp cao điểm mua sắm.
+Hook: Đừng mua điện máy tại siêu thị nếu chưa biết mẹo săn deal online tiết kiệm cả triệu này!
 
-4. Đồ gia dụng cồng kềnh và nội thất tiện ích
-Các nhà bán hàng đang đẩy mạnh thương mại điện tử phục vụ nhu cầu dọn nhà cuối năm.
-Hook: Săn đồ nội thất gia dụng cồng kềnh trên Shopee giao tận phòng khách cực tiện!
+4. Dụng cụ tập thể dục tại nhà
+Lý do: Xu hướng tự tập tại gia lên ngôi thay thế phòng gym chi phí đắt đỏ.
+Hook: Bỏ thói quen ra phòng gym, đây là bộ dụng cụ giúp bạn tự tập cực đỉnh ngay tại nhà!
 
-5. Đồ gia dụng cao cấp chú trọng độ bền lâu dài
-Người mua chuyển sang đầu tư món đồ chất lượng tốt từ 300k đến 2 triệu thay vì đồ rẻ nhanh hỏng.
-Hook: Chi 300k hay 2 triệu cho món đồ gia dụng này: Đâu mới là tiết kiệm thật sự?
+5. Dụng cụ nhà bếp tiện ích
+Lý do: Sức hút từ sự kiện Black Friday và làn sóng chốt đơn qua livestream.
+Hook: Top 3 dụng cụ nhà bếp đang giảm giá sâu nhất đợt Black Friday bạn không thể bỏ lỡ!
 
 Xu hướng và sự kiện sắp tới:
-Tập trung làm livestream và video ngắn tương tác dịp Black Friday cuối tháng 11/2026.
-Thời tiết miền Bắc rét sâu là cơ hội vàng bán thiết bị làm ấm, làm khô và chăm sóc sức khỏe gia đình.
+- Đợt rét đậm Bắc Bộ thúc đẩy cầu sản phẩm sưởi ấm.
+- Sự kiện Black Friday 2026 và mùa mua sắm cuối năm bùng nổ trên Shopee Live.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-25.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-26.md
