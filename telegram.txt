@@ -1,27 +1,26 @@
-📊 Báo cáo đồ gia dụng hot – 26/11/2026
+📊 Báo cáo đồ gia dụng hot – 27/11/2026
 
-1. Đồ gia dụng sưởi ấm (Máy sưởi, máy tạo ẩm, ấm đun)
-Lý do: Miền Bắc đón không khí lạnh dưới 10 độ C, nhu cầu thiết bị giữ ấm tăng cao.
-Hook: Rét dưới 10 độ C mà không có món gia dụng này trong phòng thì đêm ngủ sao nổi!
+1. Thiết bị bếp thông minh
+Lý do hot: Nhu cầu nâng cấp bếp tăng cao dịp mua sắm Black Friday với nhiều ưu đãi giảm sâu.
+Hook video: Nâng cấp căn bếp xịn xò với giá chỉ từ 99k dịp Black Friday này, bạn đã biết chưa?
 
-2. Gia dụng thông minh (Máy hút bụi, đồ gia đình tiện ích)
-Lý do: Xu hướng tiêu dùng ưu tiên nâng cao chất lượng sống và tiện nghi gia đình.
-Hook: Đây là lý do tại sao gia dụng thông minh đang khiến hội chị em mê mẩn dịp cuối năm!
+2. Dụng cụ nhà bếp tiện ích kiểu Nhật
+Lý do hot: Đồ dùng thông minh tiện lợi, độ bền cao được người tiêu dùng tin tưởng mua lại nhiều lần.
+Hook video: 5 món dụng cụ nhà bếp dùng xong chỉ muốn mua lại ngay lập tức!
 
-3. Thiết bị điện máy gia dụng cồng kềnh
-Lý do: Khách xem giá trực tiếp rồi chốt đơn online dịp cao điểm mua sắm.
-Hook: Đừng mua điện máy tại siêu thị nếu chưa biết mẹo săn deal online tiết kiệm cả triệu này!
+3. Gia dụng thông minh chăm sóc gia đình
+Lý do hot: Xu hướng người Việt ưu tiên các sản phẩm hiện đại giúp nâng cao chất lượng sống.
+Hook video: Đầu tư món gia dụng thông minh này xong đảm bảo chất lượng sống của bạn tăng gấp đôi!
 
-4. Dụng cụ tập thể dục tại nhà
-Lý do: Xu hướng tự tập tại gia lên ngôi thay thế phòng gym chi phí đắt đỏ.
-Hook: Bỏ thói quen ra phòng gym, đây là bộ dụng cụ giúp bạn tự tập cực đỉnh ngay tại nhà!
+4. Đồ gốm sứ nhà bếp Bát Tràng
+Lý do hot: Các sản phẩm gốm sứ truyền thống đẩy mạnh bán hàng online và livestream tiếp cận khách hàng.
+Hook video: Mê đồ gốm Bát Tràng nhưng sợ vỡ? Xem ngay cách mua online chuẩn xịn này!
 
-5. Dụng cụ nhà bếp tiện ích
-Lý do: Sức hút từ sự kiện Black Friday và làn sóng chốt đơn qua livestream.
-Hook: Top 3 dụng cụ nhà bếp đang giảm giá sâu nhất đợt Black Friday bạn không thể bỏ lỡ!
+5. Đồ gia dụng cồng kềnh cuối năm
+Lý do hot: Nhu cầu sắm sửa, dọn dẹp nhà cửa đón Tết giúp nhóm hàng gia dụng lớn tăng trưởng tốt.
+Hook video: Sắm đồ gia dụng cồng kềnh dịp cuối năm, giao tận nhà không lo vất vả!
 
-Xu hướng và sự kiện sắp tới:
-- Đợt rét đậm Bắc Bộ thúc đẩy cầu sản phẩm sưởi ấm.
-- Sự kiện Black Friday 2026 và mùa mua sắm cuối năm bùng nổ trên Shopee Live.
+Xu hướng và Sự kiện sắp tới:
+Shopee Live kết hợp giải trí tiếp tục bứt phá mạnh mẽ. Thị trường chuẩn bị bước vào đợt Mega Sale 12.12 và sắm sửa dọn nhà đón Tết Nguyên Đán. Người tiêu dùng ưu tiên nguồn gốc rõ ràng và sử dụng hình thức thanh toán mua trước trả sau.
 
-Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-26.md
+Báo cáo đầy đủ: https://github.com/gosutank183/bao-cao-do-gia-dung/blob/main/bao-cao/2026-11-27.md
